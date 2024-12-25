@@ -1,13 +1,17 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am a third-year undergraduate student in the [College of Letters & Science](https://ls.wisc.edu/)at the[University of Wisconsin-Madison](https://www.wisc.edu/). Before I attend UW-Madison, I was at the[Manning College of Information and Computer Sciences](https://www.cics.umass.edu/)at the[University of Massachusetts,Amherst](https://www.umass.edu/). Currently, I am in triple major, which are Computer Science, Economics and Mathematics.
+My research interests include trustworthy machine learning, Generative Artificial Intelligence especially (Multimodal) Large Language Models, prompt engineering, privacy, digital security and tranditional system security.
+I am also interested in computational social science(since my secondary major is economics, and before I decided my major at UMass, I was actually on the opposite of science majors, I was a political science major!), which includes using maachine learning techniques to solve real world economic,political science and Sociology problems.
+
+<span style="color: red;">I am actively seeking summer research intern, I am willing to be in-person(self-funded) and remotely. I can start right now remotely, and from 5/20/2025 to 8/20/2025 in-person.</span>。
 
 A data-driven personal website
 ======
