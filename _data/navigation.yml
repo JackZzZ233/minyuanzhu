@@ -9,7 +9,7 @@ main:
     url: /publications/
 
   - title: "CV"
-    url: _pages/cv.md
+    url: assets/Minyuan_Zhu_s_CV.pdf
     
   - title: "MISC"
     url: /portfolio/
