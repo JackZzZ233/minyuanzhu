@@ -7,11 +7,13 @@
 main:
   - title: "Projects"
     url: /publications/
+
+  - title: "CV"
+    url: /cv/
     
   - title: "MISC"
     url: /portfolio/
         
-  - title: "CV"
-    url: /cv/
+ 
     
 
