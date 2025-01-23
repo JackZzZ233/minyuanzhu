@@ -5,15 +5,9 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Projects"
-    url: /publications/
+
 
   - title: "CV"
     url: assets/Minyuan_Zhu_s_CV.pdf
-    
-  - title: "MISC"
-    url: /portfolio/
-        
- 
-    
+
 
