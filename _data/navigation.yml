@@ -7,7 +7,7 @@
 main:
 
   - title: "Misc"
-    url: /misc/
+    url: misc/
 
   - title: "CV"
     url: assets/Minyuan_Zhu_s_CV.pdf
