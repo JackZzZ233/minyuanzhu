@@ -11,6 +11,7 @@ I am a first-year master student in the [The Grainger College of Engineering](ht
 
 My research interests include trustworthy machine learning, AI-Security and Computational Social Science.
 
+I am currently working on multiple research projects about computational linguistics.
 
 You can find my CV here [Minyuan Zhu's CV](assets/Minyuan_Zhu_s_CV.pdf).
 
